@@ -25,11 +25,13 @@
 | ------- |
 | [0190-reverse-bits](https://github.com/avinashtorm/leetcode/tree/master/0190-reverse-bits) |
 | [0779-k-th-symbol-in-grammar](https://github.com/avinashtorm/leetcode/tree/master/0779-k-th-symbol-in-grammar) |
+| [1755-closest-subsequence-sum](https://github.com/avinashtorm/leetcode/tree/master/1755-closest-subsequence-sum) |
 ## Array
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/avinashtorm/leetcode/tree/master/0048-rotate-image) |
 | [0416-partition-equal-subset-sum](https://github.com/avinashtorm/leetcode/tree/master/0416-partition-equal-subset-sum) |
+| [1755-closest-subsequence-sum](https://github.com/avinashtorm/leetcode/tree/master/1755-closest-subsequence-sum) |
 ## Matrix
 |  |
 | ------- |
@@ -51,6 +53,7 @@
 | ------- |
 | [0070-climbing-stairs](https://github.com/avinashtorm/leetcode/tree/master/0070-climbing-stairs) |
 | [0416-partition-equal-subset-sum](https://github.com/avinashtorm/leetcode/tree/master/0416-partition-equal-subset-sum) |
+| [1755-closest-subsequence-sum](https://github.com/avinashtorm/leetcode/tree/master/1755-closest-subsequence-sum) |
 ## Memoization
 |  |
 | ------- |
@@ -63,4 +66,20 @@
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/avinashtorm/leetcode/tree/master/0416-partition-equal-subset-sum) |
+## Two Pointers
+|  |
+| ------- |
+| [1755-closest-subsequence-sum](https://github.com/avinashtorm/leetcode/tree/master/1755-closest-subsequence-sum) |
+## Meet in the Middle
+|  |
+| ------- |
+| [1755-closest-subsequence-sum](https://github.com/avinashtorm/leetcode/tree/master/1755-closest-subsequence-sum) |
+## Sorting
+|  |
+| ------- |
+| [1755-closest-subsequence-sum](https://github.com/avinashtorm/leetcode/tree/master/1755-closest-subsequence-sum) |
+## Bitmask
+|  |
+| ------- |
+| [1755-closest-subsequence-sum](https://github.com/avinashtorm/leetcode/tree/master/1755-closest-subsequence-sum) |
 <!---LeetCode Topics End-->
