@@ -32,6 +32,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/avinashtorm/leetcode/tree/master/0048-rotate-image) |
+| [0322-coin-change](https://github.com/avinashtorm/leetcode/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/avinashtorm/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/avinashtorm/leetcode/tree/master/0494-target-sum) |
 | [1386-cinema-seat-allocation](https://github.com/avinashtorm/leetcode/tree/master/1386-cinema-seat-allocation) |
@@ -57,6 +58,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/avinashtorm/leetcode/tree/master/0070-climbing-stairs) |
+| [0322-coin-change](https://github.com/avinashtorm/leetcode/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/avinashtorm/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/avinashtorm/leetcode/tree/master/0494-target-sum) |
 | [1755-closest-subsequence-sum](https://github.com/avinashtorm/leetcode/tree/master/1755-closest-subsequence-sum) |
@@ -68,6 +70,7 @@
 ## Knapsack Problem
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/avinashtorm/leetcode/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/avinashtorm/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/avinashtorm/leetcode/tree/master/0494-target-sum) |
 ## 0-1 Knapsack
@@ -115,4 +118,12 @@
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/avinashtorm/leetcode/tree/master/0494-target-sum) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/avinashtorm/leetcode/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/avinashtorm/leetcode/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
