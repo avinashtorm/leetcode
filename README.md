@@ -48,6 +48,7 @@
 |  |
 | ------- |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/avinashtorm/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1143-longest-common-subsequence](https://github.com/avinashtorm/leetcode/tree/master/1143-longest-common-subsequence) |
 ## Stack
 |  |
 | ------- |
@@ -64,6 +65,7 @@
 | [0416-partition-equal-subset-sum](https://github.com/avinashtorm/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/avinashtorm/leetcode/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/avinashtorm/leetcode/tree/master/0518-coin-change-ii) |
+| [1143-longest-common-subsequence](https://github.com/avinashtorm/leetcode/tree/master/1143-longest-common-subsequence) |
 | [1755-closest-subsequence-sum](https://github.com/avinashtorm/leetcode/tree/master/1755-closest-subsequence-sum) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/avinashtorm/leetcode/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Memoization
@@ -135,4 +137,8 @@
 |  |
 | ------- |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/avinashtorm/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/avinashtorm/leetcode/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
