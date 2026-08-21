@@ -47,6 +47,7 @@
 ## String
 |  |
 | ------- |
+| [0392-is-subsequence](https://github.com/avinashtorm/leetcode/tree/master/0392-is-subsequence) |
 | [0516-longest-palindromic-subsequence](https://github.com/avinashtorm/leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/avinashtorm/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1092-shortest-common-supersequence](https://github.com/avinashtorm/leetcode/tree/master/1092-shortest-common-supersequence) |
@@ -64,6 +65,7 @@
 | ------- |
 | [0070-climbing-stairs](https://github.com/avinashtorm/leetcode/tree/master/0070-climbing-stairs) |
 | [0322-coin-change](https://github.com/avinashtorm/leetcode/tree/master/0322-coin-change) |
+| [0392-is-subsequence](https://github.com/avinashtorm/leetcode/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/avinashtorm/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/avinashtorm/leetcode/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/avinashtorm/leetcode/tree/master/0516-longest-palindromic-subsequence) |
@@ -91,6 +93,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0392-is-subsequence](https://github.com/avinashtorm/leetcode/tree/master/0392-is-subsequence) |
 | [1755-closest-subsequence-sum](https://github.com/avinashtorm/leetcode/tree/master/1755-closest-subsequence-sum) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/avinashtorm/leetcode/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Meet in the Middle
