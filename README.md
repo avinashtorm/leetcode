@@ -8,6 +8,7 @@
 | [0070-climbing-stairs](https://github.com/avinashtorm/leetcode/tree/master/0070-climbing-stairs) |
 | [0292-nim-game](https://github.com/avinashtorm/leetcode/tree/master/0292-nim-game) |
 | [0779-k-th-symbol-in-grammar](https://github.com/avinashtorm/leetcode/tree/master/0779-k-th-symbol-in-grammar) |
+| [1927-sum-game](https://github.com/avinashtorm/leetcode/tree/master/1927-sum-game) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/avinashtorm/leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Brainteaser
 |  |
@@ -17,6 +18,7 @@
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/avinashtorm/leetcode/tree/master/0292-nim-game) |
+| [1927-sum-game](https://github.com/avinashtorm/leetcode/tree/master/1927-sum-game) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -57,6 +59,7 @@
 | [1092-shortest-common-supersequence](https://github.com/avinashtorm/leetcode/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/avinashtorm/leetcode/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/avinashtorm/leetcode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1927-sum-game](https://github.com/avinashtorm/leetcode/tree/master/1927-sum-game) |
 ## Stack
 |  |
 | ------- |
@@ -136,6 +139,7 @@
 |  |
 | ------- |
 | [1386-cinema-seat-allocation](https://github.com/avinashtorm/leetcode/tree/master/1386-cinema-seat-allocation) |
+| [1927-sum-game](https://github.com/avinashtorm/leetcode/tree/master/1927-sum-game) |
 ## Backtracking
 |  |
 | ------- |
