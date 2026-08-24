@@ -52,6 +52,7 @@
 | [1755-closest-subsequence-sum](https://github.com/avinashtorm/leetcode/tree/master/1755-closest-subsequence-sum) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/avinashtorm/leetcode/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/avinashtorm/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/avinashtorm/leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Matrix
 |  |
 | ------- |
@@ -141,6 +142,7 @@
 |  |
 | ------- |
 | [1386-cinema-seat-allocation](https://github.com/avinashtorm/leetcode/tree/master/1386-cinema-seat-allocation) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/avinashtorm/leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Greedy
 |  |
 | ------- |
