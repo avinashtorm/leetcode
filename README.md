@@ -8,6 +8,7 @@
 | [0070-climbing-stairs](https://github.com/avinashtorm/leetcode/tree/master/0070-climbing-stairs) |
 | [0292-nim-game](https://github.com/avinashtorm/leetcode/tree/master/0292-nim-game) |
 | [0343-integer-break](https://github.com/avinashtorm/leetcode/tree/master/0343-integer-break) |
+| [0670-maximum-swap](https://github.com/avinashtorm/leetcode/tree/master/0670-maximum-swap) |
 | [0779-k-th-symbol-in-grammar](https://github.com/avinashtorm/leetcode/tree/master/0779-k-th-symbol-in-grammar) |
 | [1927-sum-game](https://github.com/avinashtorm/leetcode/tree/master/1927-sum-game) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/avinashtorm/leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -153,6 +154,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0670-maximum-swap](https://github.com/avinashtorm/leetcode/tree/master/0670-maximum-swap) |
 | [1386-cinema-seat-allocation](https://github.com/avinashtorm/leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1927-sum-game](https://github.com/avinashtorm/leetcode/tree/master/1927-sum-game) |
 ## Backtracking
