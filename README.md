@@ -54,6 +54,7 @@
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/avinashtorm/leetcode/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/avinashtorm/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/avinashtorm/leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/avinashtorm/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Matrix
 |  |
 | ------- |
@@ -146,6 +147,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/avinashtorm/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [1386-cinema-seat-allocation](https://github.com/avinashtorm/leetcode/tree/master/1386-cinema-seat-allocation) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/avinashtorm/leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/avinashtorm/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Greedy
 |  |
 | ------- |
