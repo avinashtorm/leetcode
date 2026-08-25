@@ -7,6 +7,7 @@
 | [0048-rotate-image](https://github.com/avinashtorm/leetcode/tree/master/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/avinashtorm/leetcode/tree/master/0070-climbing-stairs) |
 | [0292-nim-game](https://github.com/avinashtorm/leetcode/tree/master/0292-nim-game) |
+| [0343-integer-break](https://github.com/avinashtorm/leetcode/tree/master/0343-integer-break) |
 | [0779-k-th-symbol-in-grammar](https://github.com/avinashtorm/leetcode/tree/master/0779-k-th-symbol-in-grammar) |
 | [1927-sum-game](https://github.com/avinashtorm/leetcode/tree/master/1927-sum-game) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/avinashtorm/leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -85,6 +86,7 @@
 | [0198-house-robber](https://github.com/avinashtorm/leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/avinashtorm/leetcode/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/avinashtorm/leetcode/tree/master/0322-coin-change) |
+| [0343-integer-break](https://github.com/avinashtorm/leetcode/tree/master/0343-integer-break) |
 | [0392-is-subsequence](https://github.com/avinashtorm/leetcode/tree/master/0392-is-subsequence) |
 | [0403-frog-jump](https://github.com/avinashtorm/leetcode/tree/master/0403-frog-jump) |
 | [0416-partition-equal-subset-sum](https://github.com/avinashtorm/leetcode/tree/master/0416-partition-equal-subset-sum) |
