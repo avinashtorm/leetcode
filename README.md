@@ -6,6 +6,7 @@
 | ------- |
 | [0048-rotate-image](https://github.com/avinashtorm/leetcode/tree/master/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/avinashtorm/leetcode/tree/master/0070-climbing-stairs) |
+| [0231-power-of-two](https://github.com/avinashtorm/leetcode/tree/master/0231-power-of-two) |
 | [0292-nim-game](https://github.com/avinashtorm/leetcode/tree/master/0292-nim-game) |
 | [0343-integer-break](https://github.com/avinashtorm/leetcode/tree/master/0343-integer-break) |
 | [0670-maximum-swap](https://github.com/avinashtorm/leetcode/tree/master/0670-maximum-swap) |
@@ -31,6 +32,7 @@
 | [0078-subsets](https://github.com/avinashtorm/leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/avinashtorm/leetcode/tree/master/0090-subsets-ii) |
 | [0190-reverse-bits](https://github.com/avinashtorm/leetcode/tree/master/0190-reverse-bits) |
+| [0231-power-of-two](https://github.com/avinashtorm/leetcode/tree/master/0231-power-of-two) |
 | [0779-k-th-symbol-in-grammar](https://github.com/avinashtorm/leetcode/tree/master/0779-k-th-symbol-in-grammar) |
 | [1386-cinema-seat-allocation](https://github.com/avinashtorm/leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1755-closest-subsequence-sum](https://github.com/avinashtorm/leetcode/tree/master/1755-closest-subsequence-sum) |
@@ -79,6 +81,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/avinashtorm/leetcode/tree/master/0231-power-of-two) |
 | [0779-k-th-symbol-in-grammar](https://github.com/avinashtorm/leetcode/tree/master/0779-k-th-symbol-in-grammar) |
 ## Dynamic Programming
 |  |
