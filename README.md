@@ -40,6 +40,7 @@
 ## Array
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/avinashtorm/leetcode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/avinashtorm/leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/avinashtorm/leetcode/tree/master/0040-combination-sum-ii) |
 | [0048-rotate-image](https://github.com/avinashtorm/leetcode/tree/master/0048-rotate-image) |
@@ -64,6 +65,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/avinashtorm/leetcode/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/avinashtorm/leetcode/tree/master/0048-rotate-image) |
 | [1981-minimize-the-difference-between-target-and-chosen-elements](https://github.com/avinashtorm/leetcode/tree/master/1981-minimize-the-difference-between-target-and-chosen-elements) |
 ## String
@@ -155,6 +157,7 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/avinashtorm/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0037-sudoku-solver](https://github.com/avinashtorm/leetcode/tree/master/0037-sudoku-solver) |
 | [1386-cinema-seat-allocation](https://github.com/avinashtorm/leetcode/tree/master/1386-cinema-seat-allocation) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/avinashtorm/leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/avinashtorm/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -168,6 +171,7 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/avinashtorm/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0037-sudoku-solver](https://github.com/avinashtorm/leetcode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/avinashtorm/leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/avinashtorm/leetcode/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/avinashtorm/leetcode/tree/master/0051-n-queens) |
@@ -196,5 +200,10 @@
 ## Algorithm X
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/avinashtorm/leetcode/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/avinashtorm/leetcode/tree/master/0051-n-queens) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/avinashtorm/leetcode/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
