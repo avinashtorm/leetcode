@@ -43,6 +43,7 @@
 | [0039-combination-sum](https://github.com/avinashtorm/leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/avinashtorm/leetcode/tree/master/0040-combination-sum-ii) |
 | [0048-rotate-image](https://github.com/avinashtorm/leetcode/tree/master/0048-rotate-image) |
+| [0051-n-queens](https://github.com/avinashtorm/leetcode/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/avinashtorm/leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/avinashtorm/leetcode/tree/master/0090-subsets-ii) |
 | [0198-house-robber](https://github.com/avinashtorm/leetcode/tree/master/0198-house-robber) |
@@ -169,6 +170,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/avinashtorm/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0039-combination-sum](https://github.com/avinashtorm/leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/avinashtorm/leetcode/tree/master/0040-combination-sum-ii) |
+| [0051-n-queens](https://github.com/avinashtorm/leetcode/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/avinashtorm/leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/avinashtorm/leetcode/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/avinashtorm/leetcode/tree/master/0216-combination-sum-iii) |
@@ -191,4 +193,8 @@
 | ------- |
 | [1092-shortest-common-supersequence](https://github.com/avinashtorm/leetcode/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/avinashtorm/leetcode/tree/master/1143-longest-common-subsequence) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/avinashtorm/leetcode/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
