@@ -1,39 +1,47 @@
 class Solution {
 public:
-    bool isValid(vector<string>&vs,int r,int c,int n){
-        for(int i=0;i<r;i++){
-            if(vs[i][c]=='Q')return false;
-        }
-        int i=r-1,j=c-1;
-        while(i>=0&&j>=0){
-            if(vs[i][j]=='Q')return false;
-            i--;j--;
-        }
-        i=r-1;j=c+1;
-        while(i>=0&&j<n){
-            if(vs[i][j]=='Q')return false;
-            i--;j++;
-        }
-        return true;
-    }
-    void f(vector<vector<string>>&v,vector<string>&vs,int r,int n){
-        if(r==n){
-            v.push_back(vs);
+    void solve(int row,vector<string>&board,vector<vector<string>>&ans,
+               vector<int>&columnUsed,vector<int>&leftDiagonalUsed,
+               vector<int>&rightDiagonalUsed,int n){
+        if(row==n){
+            ans.push_back(board);
             return;
         }
-        for(int i=0;i<n;i++){
-            vs[r][i]='Q';
-            if(isValid(vs,r,i,n))f(v,vs,r+1,n);
-            vs[r][i]='.';
+
+        for(int col=0;col<n;col++){
+            if(columnUsed[col]==0 &&
+               leftDiagonalUsed[n-1+col-row]==0 &&
+               rightDiagonalUsed[row+col]==0){
+
+                board[row][col]='Q';
+
+                columnUsed[col]=1;
+                leftDiagonalUsed[n-1+col-row]=1;
+                rightDiagonalUsed[row+col]=1;
+
+                solve(row+1,board,ans,columnUsed,
+                      leftDiagonalUsed,rightDiagonalUsed,n);
+
+                board[row][col]='.';
+
+                columnUsed[col]=0;
+                leftDiagonalUsed[n-1+col-row]=0;
+                rightDiagonalUsed[row+col]=0;
+            }
         }
     }
+
     vector<vector<string>> solveNQueens(int n){
-        vector<vector<string>>v;
-        vector<string>vs;
-        string s="";
-        for(int i=0;i<n;i++)s.push_back('.');
-        for(int i=0;i<n;i++)vs.push_back(s);
-        f(v,vs,0,n);
-        return v;
+        vector<vector<string>>ans;
+        vector<string>board(n,string(n,'.'));
+
+        vector<int>columnUsed(n,0);
+        vector<int>leftDiagonalUsed(2*n-1,0);
+        vector<int>rightDiagonalUsed(2*n-1,0);
+
+        solve(0,board,ans,columnUsed,
+              leftDiagonalUsed,rightDiagonalUsed,n);
+
+        return ans;
     }
 };
