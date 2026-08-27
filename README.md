@@ -7,6 +7,7 @@
 | [0048-rotate-image](https://github.com/avinashtorm/leetcode/tree/master/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/avinashtorm/leetcode/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/avinashtorm/leetcode/tree/master/0231-power-of-two) |
+| [0282-expression-add-operators](https://github.com/avinashtorm/leetcode/tree/master/0282-expression-add-operators) |
 | [0292-nim-game](https://github.com/avinashtorm/leetcode/tree/master/0292-nim-game) |
 | [0343-integer-break](https://github.com/avinashtorm/leetcode/tree/master/0343-integer-break) |
 | [0670-maximum-swap](https://github.com/avinashtorm/leetcode/tree/master/0670-maximum-swap) |
@@ -73,6 +74,7 @@
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/avinashtorm/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0131-palindrome-partitioning](https://github.com/avinashtorm/leetcode/tree/master/0131-palindrome-partitioning) |
+| [0282-expression-add-operators](https://github.com/avinashtorm/leetcode/tree/master/0282-expression-add-operators) |
 | [0392-is-subsequence](https://github.com/avinashtorm/leetcode/tree/master/0392-is-subsequence) |
 | [0516-longest-palindromic-subsequence](https://github.com/avinashtorm/leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/avinashtorm/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -181,6 +183,7 @@
 | [0090-subsets-ii](https://github.com/avinashtorm/leetcode/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/avinashtorm/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/avinashtorm/leetcode/tree/master/0216-combination-sum-iii) |
+| [0282-expression-add-operators](https://github.com/avinashtorm/leetcode/tree/master/0282-expression-add-operators) |
 | [0494-target-sum](https://github.com/avinashtorm/leetcode/tree/master/0494-target-sum) |
 ## Breadth-First Search
 |  |
