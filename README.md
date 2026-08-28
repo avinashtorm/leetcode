@@ -75,6 +75,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/avinashtorm/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0131-palindrome-partitioning](https://github.com/avinashtorm/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0282-expression-add-operators](https://github.com/avinashtorm/leetcode/tree/master/0282-expression-add-operators) |
+| [0299-bulls-and-cows](https://github.com/avinashtorm/leetcode/tree/master/0299-bulls-and-cows) |
 | [0392-is-subsequence](https://github.com/avinashtorm/leetcode/tree/master/0392-is-subsequence) |
 | [0516-longest-palindromic-subsequence](https://github.com/avinashtorm/leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/avinashtorm/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -162,6 +163,7 @@
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/avinashtorm/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/avinashtorm/leetcode/tree/master/0037-sudoku-solver) |
+| [0299-bulls-and-cows](https://github.com/avinashtorm/leetcode/tree/master/0299-bulls-and-cows) |
 | [1386-cinema-seat-allocation](https://github.com/avinashtorm/leetcode/tree/master/1386-cinema-seat-allocation) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/avinashtorm/leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/avinashtorm/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -212,4 +214,8 @@
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/avinashtorm/leetcode/tree/master/0037-sudoku-solver) |
+## Counting
+|  |
+| ------- |
+| [0299-bulls-and-cows](https://github.com/avinashtorm/leetcode/tree/master/0299-bulls-and-cows) |
 <!---LeetCode Topics End-->
