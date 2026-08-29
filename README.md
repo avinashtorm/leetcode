@@ -90,6 +90,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/avinashtorm/leetcode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/avinashtorm/leetcode/tree/master/0231-power-of-two) |
 | [0779-k-th-symbol-in-grammar](https://github.com/avinashtorm/leetcode/tree/master/0779-k-th-symbol-in-grammar) |
 ## Dynamic Programming
@@ -222,6 +223,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/avinashtorm/leetcode/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/avinashtorm/leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/avinashtorm/leetcode/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
