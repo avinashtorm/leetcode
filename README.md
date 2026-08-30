@@ -60,6 +60,7 @@
 | [1755-closest-subsequence-sum](https://github.com/avinashtorm/leetcode/tree/master/1755-closest-subsequence-sum) |
 | [1981-minimize-the-difference-between-target-and-chosen-elements](https://github.com/avinashtorm/leetcode/tree/master/1981-minimize-the-difference-between-target-and-chosen-elements) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/avinashtorm/leetcode/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/avinashtorm/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/avinashtorm/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/avinashtorm/leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/avinashtorm/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -177,6 +178,7 @@
 | [0670-maximum-swap](https://github.com/avinashtorm/leetcode/tree/master/0670-maximum-swap) |
 | [1386-cinema-seat-allocation](https://github.com/avinashtorm/leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1927-sum-game](https://github.com/avinashtorm/leetcode/tree/master/1927-sum-game) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/avinashtorm/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Backtracking
 |  |
 | ------- |
