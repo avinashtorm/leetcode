@@ -94,6 +94,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/avinashtorm/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/avinashtorm/leetcode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/avinashtorm/leetcode/tree/master/0231-power-of-two) |
 | [0779-k-th-symbol-in-grammar](https://github.com/avinashtorm/leetcode/tree/master/0779-k-th-symbol-in-grammar) |
@@ -232,6 +233,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/avinashtorm/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/avinashtorm/leetcode/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/avinashtorm/leetcode/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/avinashtorm/leetcode/tree/master/0237-delete-node-in-a-linked-list) |
