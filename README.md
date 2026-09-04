@@ -66,6 +66,7 @@
 | [3471-find-the-largest-almost-missing-integer](https://github.com/avinashtorm/leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/avinashtorm/leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/avinashtorm/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3903-smallest-stable-index-i](https://github.com/avinashtorm/leetcode/tree/master/3903-smallest-stable-index-i) |
 ## Matrix
 |  |
 | ------- |
@@ -243,4 +244,8 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/avinashtorm/leetcode/tree/master/0141-linked-list-cycle) |
+## Prefix Sum
+|  |
+| ------- |
+| [3903-smallest-stable-index-i](https://github.com/avinashtorm/leetcode/tree/master/3903-smallest-stable-index-i) |
 <!---LeetCode Topics End-->
