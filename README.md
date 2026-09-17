@@ -203,6 +203,7 @@
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/avinashtorm/leetcode/tree/master/0322-coin-change) |
+| [0547-number-of-provinces](https://github.com/avinashtorm/leetcode/tree/master/0547-number-of-provinces) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/avinashtorm/leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Complete Knapsack
 |  |
@@ -248,4 +249,16 @@
 |  |
 | ------- |
 | [3903-smallest-stable-index-i](https://github.com/avinashtorm/leetcode/tree/master/3903-smallest-stable-index-i) |
+## Depth-First Search
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/avinashtorm/leetcode/tree/master/0547-number-of-provinces) |
+## Union-Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/avinashtorm/leetcode/tree/master/0547-number-of-provinces) |
+## Graph Theory
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/avinashtorm/leetcode/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
