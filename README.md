@@ -218,6 +218,7 @@
 | [0542-01-matrix](https://github.com/avinashtorm/leetcode/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/avinashtorm/leetcode/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/avinashtorm/leetcode/tree/master/0733-flood-fill) |
+| [0785-is-graph-bipartite](https://github.com/avinashtorm/leetcode/tree/master/0785-is-graph-bipartite) |
 | [0994-rotting-oranges](https://github.com/avinashtorm/leetcode/tree/master/0994-rotting-oranges) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/avinashtorm/leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Complete Knapsack
@@ -272,17 +273,20 @@
 | [0210-course-schedule-ii](https://github.com/avinashtorm/leetcode/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/avinashtorm/leetcode/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/avinashtorm/leetcode/tree/master/0733-flood-fill) |
+| [0785-is-graph-bipartite](https://github.com/avinashtorm/leetcode/tree/master/0785-is-graph-bipartite) |
 ## Union-Find
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/avinashtorm/leetcode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/avinashtorm/leetcode/tree/master/0547-number-of-provinces) |
+| [0785-is-graph-bipartite](https://github.com/avinashtorm/leetcode/tree/master/0785-is-graph-bipartite) |
 ## Graph Theory
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/avinashtorm/leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/avinashtorm/leetcode/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/avinashtorm/leetcode/tree/master/0547-number-of-provinces) |
+| [0785-is-graph-bipartite](https://github.com/avinashtorm/leetcode/tree/master/0785-is-graph-bipartite) |
 ## Topological Sort
 |  |
 | ------- |
@@ -292,4 +296,12 @@
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/avinashtorm/leetcode/tree/master/0207-course-schedule) |
+## Graph Coloring
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/avinashtorm/leetcode/tree/master/0785-is-graph-bipartite) |
+## Bipartite Graph
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/avinashtorm/leetcode/tree/master/0785-is-graph-bipartite) |
 <!---LeetCode Topics End-->
