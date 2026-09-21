@@ -1,22 +1,27 @@
 class Solution {
 public:
-bool dfs(int c,vector<int>&v,vector<vector<int>>&a){
-    if(v[c]==1)return true;
-    if(v[c]==2)return false;
-    v[c]=1;
-    for(int i=0;i<a[c].size();i++){
-        if(dfs(a[c][i],v,a))return true;
-    }
-    v[c]=2;
-    return false;
-}
     bool canFinish(int n, vector<vector<int>>&e) {
         vector<vector<int>>a(n);
         for(auto &x:e)a[x[0]].push_back(x[1]);
-        vector<int>v(n,0);
+        vector<int>in(n);
+        queue<int>q;
         for(int i=0;i<n;i++){
-            if(dfs(i,v,a))return false;
+            for(int j=0;j<a[i].size();j++){
+                in[a[i][j]]++;
+            }
         }
-        return true;
+        for(int i=0;i<n;i++)if(in[i]==0){
+            q.push(i);
+        }
+        while(!q.empty()){
+            int p=q.front();
+            q.pop();
+            n--;
+            for(int i=0;i<a[p].size();i++){
+                in[a[p][i]]--;
+                if(in[a[p][i]]==0)q.push(a[p][i]);
+            }
+        }
+        return n==0?true:false;
     }
 };
