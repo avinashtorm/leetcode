@@ -49,6 +49,7 @@
 | [0051-n-queens](https://github.com/avinashtorm/leetcode/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/avinashtorm/leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/avinashtorm/leetcode/tree/master/0090-subsets-ii) |
+| [0130-surrounded-regions](https://github.com/avinashtorm/leetcode/tree/master/0130-surrounded-regions) |
 | [0198-house-robber](https://github.com/avinashtorm/leetcode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/avinashtorm/leetcode/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/avinashtorm/leetcode/tree/master/0213-house-robber-ii) |
@@ -77,6 +78,7 @@
 | ------- |
 | [0037-sudoku-solver](https://github.com/avinashtorm/leetcode/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/avinashtorm/leetcode/tree/master/0048-rotate-image) |
+| [0130-surrounded-regions](https://github.com/avinashtorm/leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/avinashtorm/leetcode/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/avinashtorm/leetcode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/avinashtorm/leetcode/tree/master/0733-flood-fill) |
@@ -213,6 +215,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/avinashtorm/leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/avinashtorm/leetcode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/avinashtorm/leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/avinashtorm/leetcode/tree/master/0210-course-schedule-ii) |
@@ -272,6 +275,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/avinashtorm/leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/avinashtorm/leetcode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/avinashtorm/leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/avinashtorm/leetcode/tree/master/0210-course-schedule-ii) |
@@ -283,6 +287,7 @@
 ## Union-Find
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/avinashtorm/leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/avinashtorm/leetcode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/avinashtorm/leetcode/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/avinashtorm/leetcode/tree/master/0785-is-graph-bipartite) |
