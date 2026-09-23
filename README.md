@@ -63,6 +63,7 @@
 | [0733-flood-fill](https://github.com/avinashtorm/leetcode/tree/master/0733-flood-fill) |
 | [0990-satisfiability-of-equality-equations](https://github.com/avinashtorm/leetcode/tree/master/0990-satisfiability-of-equality-equations) |
 | [0994-rotting-oranges](https://github.com/avinashtorm/leetcode/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/avinashtorm/leetcode/tree/master/1020-number-of-enclaves) |
 | [1386-cinema-seat-allocation](https://github.com/avinashtorm/leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1755-closest-subsequence-sum](https://github.com/avinashtorm/leetcode/tree/master/1755-closest-subsequence-sum) |
 | [1981-minimize-the-difference-between-target-and-chosen-elements](https://github.com/avinashtorm/leetcode/tree/master/1981-minimize-the-difference-between-target-and-chosen-elements) |
@@ -83,6 +84,7 @@
 | [0542-01-matrix](https://github.com/avinashtorm/leetcode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/avinashtorm/leetcode/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/avinashtorm/leetcode/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/avinashtorm/leetcode/tree/master/1020-number-of-enclaves) |
 | [1981-minimize-the-difference-between-target-and-chosen-elements](https://github.com/avinashtorm/leetcode/tree/master/1981-minimize-the-difference-between-target-and-chosen-elements) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/avinashtorm/leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## String
@@ -225,6 +227,7 @@
 | [0733-flood-fill](https://github.com/avinashtorm/leetcode/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/avinashtorm/leetcode/tree/master/0785-is-graph-bipartite) |
 | [0994-rotting-oranges](https://github.com/avinashtorm/leetcode/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/avinashtorm/leetcode/tree/master/1020-number-of-enclaves) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/avinashtorm/leetcode/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/avinashtorm/leetcode/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/avinashtorm/leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -282,6 +285,7 @@
 | [0547-number-of-provinces](https://github.com/avinashtorm/leetcode/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/avinashtorm/leetcode/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/avinashtorm/leetcode/tree/master/0785-is-graph-bipartite) |
+| [1020-number-of-enclaves](https://github.com/avinashtorm/leetcode/tree/master/1020-number-of-enclaves) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/avinashtorm/leetcode/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/avinashtorm/leetcode/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 ## Union-Find
@@ -292,6 +296,7 @@
 | [0547-number-of-provinces](https://github.com/avinashtorm/leetcode/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/avinashtorm/leetcode/tree/master/0785-is-graph-bipartite) |
 | [0990-satisfiability-of-equality-equations](https://github.com/avinashtorm/leetcode/tree/master/0990-satisfiability-of-equality-equations) |
+| [1020-number-of-enclaves](https://github.com/avinashtorm/leetcode/tree/master/1020-number-of-enclaves) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/avinashtorm/leetcode/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/avinashtorm/leetcode/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 ## Graph Theory
