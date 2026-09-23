@@ -60,6 +60,7 @@
 | [0518-coin-change-ii](https://github.com/avinashtorm/leetcode/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/avinashtorm/leetcode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/avinashtorm/leetcode/tree/master/0733-flood-fill) |
+| [0990-satisfiability-of-equality-equations](https://github.com/avinashtorm/leetcode/tree/master/0990-satisfiability-of-equality-equations) |
 | [0994-rotting-oranges](https://github.com/avinashtorm/leetcode/tree/master/0994-rotting-oranges) |
 | [1386-cinema-seat-allocation](https://github.com/avinashtorm/leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1755-closest-subsequence-sum](https://github.com/avinashtorm/leetcode/tree/master/1755-closest-subsequence-sum) |
@@ -91,6 +92,7 @@
 | [0299-bulls-and-cows](https://github.com/avinashtorm/leetcode/tree/master/0299-bulls-and-cows) |
 | [0392-is-subsequence](https://github.com/avinashtorm/leetcode/tree/master/0392-is-subsequence) |
 | [0516-longest-palindromic-subsequence](https://github.com/avinashtorm/leetcode/tree/master/0516-longest-palindromic-subsequence) |
+| [0990-satisfiability-of-equality-equations](https://github.com/avinashtorm/leetcode/tree/master/0990-satisfiability-of-equality-equations) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/avinashtorm/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1092-shortest-common-supersequence](https://github.com/avinashtorm/leetcode/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/avinashtorm/leetcode/tree/master/1143-longest-common-subsequence) |
@@ -280,6 +282,7 @@
 | [0200-number-of-islands](https://github.com/avinashtorm/leetcode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/avinashtorm/leetcode/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/avinashtorm/leetcode/tree/master/0785-is-graph-bipartite) |
+| [0990-satisfiability-of-equality-equations](https://github.com/avinashtorm/leetcode/tree/master/0990-satisfiability-of-equality-equations) |
 ## Graph Theory
 |  |
 | ------- |
@@ -287,6 +290,7 @@
 | [0210-course-schedule-ii](https://github.com/avinashtorm/leetcode/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/avinashtorm/leetcode/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/avinashtorm/leetcode/tree/master/0785-is-graph-bipartite) |
+| [0990-satisfiability-of-equality-equations](https://github.com/avinashtorm/leetcode/tree/master/0990-satisfiability-of-equality-equations) |
 ## Topological Sort
 |  |
 | ------- |
