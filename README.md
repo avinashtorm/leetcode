@@ -225,6 +225,7 @@
 | [0542-01-matrix](https://github.com/avinashtorm/leetcode/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/avinashtorm/leetcode/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/avinashtorm/leetcode/tree/master/0733-flood-fill) |
+| [0743-network-delay-time](https://github.com/avinashtorm/leetcode/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/avinashtorm/leetcode/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/avinashtorm/leetcode/tree/master/0802-find-eventual-safe-states) |
 | [0994-rotting-oranges](https://github.com/avinashtorm/leetcode/tree/master/0994-rotting-oranges) |
@@ -285,6 +286,7 @@
 | [0210-course-schedule-ii](https://github.com/avinashtorm/leetcode/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/avinashtorm/leetcode/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/avinashtorm/leetcode/tree/master/0733-flood-fill) |
+| [0743-network-delay-time](https://github.com/avinashtorm/leetcode/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/avinashtorm/leetcode/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/avinashtorm/leetcode/tree/master/0802-find-eventual-safe-states) |
 | [1020-number-of-enclaves](https://github.com/avinashtorm/leetcode/tree/master/1020-number-of-enclaves) |
@@ -307,6 +309,7 @@
 | [0207-course-schedule](https://github.com/avinashtorm/leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/avinashtorm/leetcode/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/avinashtorm/leetcode/tree/master/0547-number-of-provinces) |
+| [0743-network-delay-time](https://github.com/avinashtorm/leetcode/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/avinashtorm/leetcode/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/avinashtorm/leetcode/tree/master/0802-find-eventual-safe-states) |
 | [0990-satisfiability-of-equality-equations](https://github.com/avinashtorm/leetcode/tree/master/0990-satisfiability-of-equality-equations) |
@@ -338,4 +341,16 @@
 |  |
 | ------- |
 | [0802-find-eventual-safe-states](https://github.com/avinashtorm/leetcode/tree/master/0802-find-eventual-safe-states) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/avinashtorm/leetcode/tree/master/0743-network-delay-time) |
+## Shortest Path
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/avinashtorm/leetcode/tree/master/0743-network-delay-time) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/avinashtorm/leetcode/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
