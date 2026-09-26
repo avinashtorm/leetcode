@@ -93,6 +93,7 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/avinashtorm/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0126-word-ladder-ii](https://github.com/avinashtorm/leetcode/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/avinashtorm/leetcode/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/avinashtorm/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0282-expression-add-operators](https://github.com/avinashtorm/leetcode/tree/master/0282-expression-add-operators) |
@@ -190,6 +191,7 @@
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/avinashtorm/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/avinashtorm/leetcode/tree/master/0037-sudoku-solver) |
+| [0126-word-ladder-ii](https://github.com/avinashtorm/leetcode/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/avinashtorm/leetcode/tree/master/0127-word-ladder) |
 | [0141-linked-list-cycle](https://github.com/avinashtorm/leetcode/tree/master/0141-linked-list-cycle) |
 | [0299-bulls-and-cows](https://github.com/avinashtorm/leetcode/tree/master/0299-bulls-and-cows) |
@@ -214,6 +216,7 @@
 | [0051-n-queens](https://github.com/avinashtorm/leetcode/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/avinashtorm/leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/avinashtorm/leetcode/tree/master/0090-subsets-ii) |
+| [0126-word-ladder-ii](https://github.com/avinashtorm/leetcode/tree/master/0126-word-ladder-ii) |
 | [0131-palindrome-partitioning](https://github.com/avinashtorm/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/avinashtorm/leetcode/tree/master/0216-combination-sum-iii) |
 | [0282-expression-add-operators](https://github.com/avinashtorm/leetcode/tree/master/0282-expression-add-operators) |
@@ -221,6 +224,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0126-word-ladder-ii](https://github.com/avinashtorm/leetcode/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/avinashtorm/leetcode/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/avinashtorm/leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/avinashtorm/leetcode/tree/master/0200-number-of-islands) |
@@ -362,5 +366,6 @@
 ## Bidirectional Search
 |  |
 | ------- |
+| [0126-word-ladder-ii](https://github.com/avinashtorm/leetcode/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/avinashtorm/leetcode/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->
