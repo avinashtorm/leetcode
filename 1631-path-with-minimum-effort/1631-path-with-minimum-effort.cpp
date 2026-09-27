@@ -20,7 +20,7 @@ public:
                     int eff=abs(a[nx][ny]-a[x][y]);
                     eff=max(eff,d);
                     if(eff<dist[nx][ny]){
-                        if(dist[nx][ny]!=INT_MAX)st.erase({dist[nx][ny],{nx,ny}});
+                        //if(dist[nx][ny]!=INT_MAX)st.erase({dist[nx][ny],{nx,ny}});
                         dist[nx][ny]=eff;
                         st.insert({eff,{nx,ny}});
                     }
