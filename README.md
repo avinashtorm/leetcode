@@ -66,6 +66,7 @@
 | [1020-number-of-enclaves](https://github.com/avinashtorm/leetcode/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/avinashtorm/leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1386-cinema-seat-allocation](https://github.com/avinashtorm/leetcode/tree/master/1386-cinema-seat-allocation) |
+| [1631-path-with-minimum-effort](https://github.com/avinashtorm/leetcode/tree/master/1631-path-with-minimum-effort) |
 | [1755-closest-subsequence-sum](https://github.com/avinashtorm/leetcode/tree/master/1755-closest-subsequence-sum) |
 | [1981-minimize-the-difference-between-target-and-chosen-elements](https://github.com/avinashtorm/leetcode/tree/master/1981-minimize-the-difference-between-target-and-chosen-elements) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/avinashtorm/leetcode/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
@@ -87,6 +88,7 @@
 | [0994-rotting-oranges](https://github.com/avinashtorm/leetcode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/avinashtorm/leetcode/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/avinashtorm/leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1631-path-with-minimum-effort](https://github.com/avinashtorm/leetcode/tree/master/1631-path-with-minimum-effort) |
 | [1981-minimize-the-difference-between-target-and-chosen-elements](https://github.com/avinashtorm/leetcode/tree/master/1981-minimize-the-difference-between-target-and-chosen-elements) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/avinashtorm/leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## String
@@ -181,6 +183,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [1631-path-with-minimum-effort](https://github.com/avinashtorm/leetcode/tree/master/1631-path-with-minimum-effort) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/avinashtorm/leetcode/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Ordered Set
 |  |
@@ -241,6 +244,7 @@
 | [1020-number-of-enclaves](https://github.com/avinashtorm/leetcode/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/avinashtorm/leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/avinashtorm/leetcode/tree/master/1319-number-of-operations-to-make-network-connected) |
+| [1631-path-with-minimum-effort](https://github.com/avinashtorm/leetcode/tree/master/1631-path-with-minimum-effort) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/avinashtorm/leetcode/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/avinashtorm/leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Complete Knapsack
@@ -301,6 +305,7 @@
 | [0802-find-eventual-safe-states](https://github.com/avinashtorm/leetcode/tree/master/0802-find-eventual-safe-states) |
 | [1020-number-of-enclaves](https://github.com/avinashtorm/leetcode/tree/master/1020-number-of-enclaves) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/avinashtorm/leetcode/tree/master/1319-number-of-operations-to-make-network-connected) |
+| [1631-path-with-minimum-effort](https://github.com/avinashtorm/leetcode/tree/master/1631-path-with-minimum-effort) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/avinashtorm/leetcode/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 ## Union-Find
 |  |
@@ -312,6 +317,7 @@
 | [0990-satisfiability-of-equality-equations](https://github.com/avinashtorm/leetcode/tree/master/0990-satisfiability-of-equality-equations) |
 | [1020-number-of-enclaves](https://github.com/avinashtorm/leetcode/tree/master/1020-number-of-enclaves) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/avinashtorm/leetcode/tree/master/1319-number-of-operations-to-make-network-connected) |
+| [1631-path-with-minimum-effort](https://github.com/avinashtorm/leetcode/tree/master/1631-path-with-minimum-effort) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/avinashtorm/leetcode/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 ## Graph Theory
 |  |
@@ -355,6 +361,7 @@
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/avinashtorm/leetcode/tree/master/0743-network-delay-time) |
+| [1631-path-with-minimum-effort](https://github.com/avinashtorm/leetcode/tree/master/1631-path-with-minimum-effort) |
 ## Shortest Path
 |  |
 | ------- |
@@ -363,6 +370,7 @@
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/avinashtorm/leetcode/tree/master/0743-network-delay-time) |
+| [1631-path-with-minimum-effort](https://github.com/avinashtorm/leetcode/tree/master/1631-path-with-minimum-effort) |
 ## Bidirectional Search
 |  |
 | ------- |
