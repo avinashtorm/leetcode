@@ -140,6 +140,7 @@
 | [1143-longest-common-subsequence](https://github.com/avinashtorm/leetcode/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/avinashtorm/leetcode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1755-closest-subsequence-sum](https://github.com/avinashtorm/leetcode/tree/master/1755-closest-subsequence-sum) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/avinashtorm/leetcode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [1981-minimize-the-difference-between-target-and-chosen-elements](https://github.com/avinashtorm/leetcode/tree/master/1981-minimize-the-difference-between-target-and-chosen-elements) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/avinashtorm/leetcode/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Memoization
@@ -334,6 +335,7 @@
 | [0802-find-eventual-safe-states](https://github.com/avinashtorm/leetcode/tree/master/0802-find-eventual-safe-states) |
 | [0990-satisfiability-of-equality-equations](https://github.com/avinashtorm/leetcode/tree/master/0990-satisfiability-of-equality-equations) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/avinashtorm/leetcode/tree/master/1319-number-of-operations-to-make-network-connected) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/avinashtorm/leetcode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/avinashtorm/leetcode/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 ## Topological Sort
 |  |
@@ -341,6 +343,7 @@
 | [0207-course-schedule](https://github.com/avinashtorm/leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/avinashtorm/leetcode/tree/master/0210-course-schedule-ii) |
 | [0802-find-eventual-safe-states](https://github.com/avinashtorm/leetcode/tree/master/0802-find-eventual-safe-states) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/avinashtorm/leetcode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Directed Acyclic Graph
 |  |
 | ------- |
@@ -372,11 +375,13 @@
 | ------- |
 | [0743-network-delay-time](https://github.com/avinashtorm/leetcode/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/avinashtorm/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/avinashtorm/leetcode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Dijkstra's Algorithm
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/avinashtorm/leetcode/tree/master/0743-network-delay-time) |
 | [1631-path-with-minimum-effort](https://github.com/avinashtorm/leetcode/tree/master/1631-path-with-minimum-effort) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/avinashtorm/leetcode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Bidirectional Search
 |  |
 | ------- |
