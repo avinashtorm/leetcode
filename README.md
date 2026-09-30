@@ -55,6 +55,7 @@
 | [0200-number-of-islands](https://github.com/avinashtorm/leetcode/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/avinashtorm/leetcode/tree/master/0213-house-robber-ii) |
 | [0216-combination-sum-iii](https://github.com/avinashtorm/leetcode/tree/master/0216-combination-sum-iii) |
+| [0239-sliding-window-maximum](https://github.com/avinashtorm/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0322-coin-change](https://github.com/avinashtorm/leetcode/tree/master/0322-coin-change) |
 | [0403-frog-jump](https://github.com/avinashtorm/leetcode/tree/master/0403-frog-jump) |
 | [0416-partition-equal-subset-sum](https://github.com/avinashtorm/leetcode/tree/master/0416-partition-equal-subset-sum) |
@@ -368,6 +369,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/avinashtorm/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0743-network-delay-time](https://github.com/avinashtorm/leetcode/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/avinashtorm/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1631-path-with-minimum-effort](https://github.com/avinashtorm/leetcode/tree/master/1631-path-with-minimum-effort) |
@@ -388,4 +390,20 @@
 | ------- |
 | [0126-word-ladder-ii](https://github.com/avinashtorm/leetcode/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/avinashtorm/leetcode/tree/master/0127-word-ladder) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/avinashtorm/leetcode/tree/master/0239-sliding-window-maximum) |
+## Sliding Window
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/avinashtorm/leetcode/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/avinashtorm/leetcode/tree/master/0239-sliding-window-maximum) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/avinashtorm/leetcode/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
