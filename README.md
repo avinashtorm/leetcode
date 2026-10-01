@@ -98,6 +98,7 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/avinashtorm/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0020-valid-parentheses](https://github.com/avinashtorm/leetcode/tree/master/0020-valid-parentheses) |
 | [0126-word-ladder-ii](https://github.com/avinashtorm/leetcode/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/avinashtorm/leetcode/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/avinashtorm/leetcode/tree/master/0131-palindrome-partitioning) |
@@ -114,6 +115,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/avinashtorm/leetcode/tree/master/0020-valid-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/avinashtorm/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Recursion
 |  |
@@ -407,4 +409,8 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/avinashtorm/leetcode/tree/master/0239-sliding-window-maximum) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/avinashtorm/leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
