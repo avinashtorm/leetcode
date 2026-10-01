@@ -1,7 +1,6 @@
 class Solution {
 public:
     bool isValid(string a){
-        if(a.size()%2==1)return false;
         int i=0;
         stack<char>st;
         while(i<a.size()){
