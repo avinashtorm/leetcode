@@ -413,4 +413,8 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/avinashtorm/leetcode/tree/master/0020-valid-parentheses) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/avinashtorm/leetcode/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
