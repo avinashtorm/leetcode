@@ -116,6 +116,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/avinashtorm/leetcode/tree/master/0020-valid-parentheses) |
+| [0155-min-stack](https://github.com/avinashtorm/leetcode/tree/master/0155-min-stack) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/avinashtorm/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Recursion
 |  |
@@ -420,4 +421,8 @@
 | [1148-article-views-i](https://github.com/avinashtorm/leetcode/tree/master/1148-article-views-i) |
 | [1683-invalid-tweets](https://github.com/avinashtorm/leetcode/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/avinashtorm/leetcode/tree/master/1757-recyclable-and-low-fat-products) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/avinashtorm/leetcode/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
