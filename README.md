@@ -61,6 +61,7 @@
 | [0416-partition-equal-subset-sum](https://github.com/avinashtorm/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0485-max-consecutive-ones](https://github.com/avinashtorm/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0494-target-sum](https://github.com/avinashtorm/leetcode/tree/master/0494-target-sum) |
+| [0496-next-greater-element-i](https://github.com/avinashtorm/leetcode/tree/master/0496-next-greater-element-i) |
 | [0518-coin-change-ii](https://github.com/avinashtorm/leetcode/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/avinashtorm/leetcode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/avinashtorm/leetcode/tree/master/0733-flood-fill) |
@@ -117,6 +118,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/avinashtorm/leetcode/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/avinashtorm/leetcode/tree/master/0155-min-stack) |
+| [0496-next-greater-element-i](https://github.com/avinashtorm/leetcode/tree/master/0496-next-greater-element-i) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/avinashtorm/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Recursion
 |  |
@@ -206,6 +208,7 @@
 | [0127-word-ladder](https://github.com/avinashtorm/leetcode/tree/master/0127-word-ladder) |
 | [0141-linked-list-cycle](https://github.com/avinashtorm/leetcode/tree/master/0141-linked-list-cycle) |
 | [0299-bulls-and-cows](https://github.com/avinashtorm/leetcode/tree/master/0299-bulls-and-cows) |
+| [0496-next-greater-element-i](https://github.com/avinashtorm/leetcode/tree/master/0496-next-greater-element-i) |
 | [1386-cinema-seat-allocation](https://github.com/avinashtorm/leetcode/tree/master/1386-cinema-seat-allocation) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/avinashtorm/leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/avinashtorm/leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -425,4 +428,8 @@
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/avinashtorm/leetcode/tree/master/0155-min-stack) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/avinashtorm/leetcode/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
