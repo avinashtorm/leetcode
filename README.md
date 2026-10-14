@@ -46,6 +46,7 @@
 | [0037-sudoku-solver](https://github.com/avinashtorm/leetcode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/avinashtorm/leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/avinashtorm/leetcode/tree/master/0040-combination-sum-ii) |
+| [0042-trapping-rain-water](https://github.com/avinashtorm/leetcode/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/avinashtorm/leetcode/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/avinashtorm/leetcode/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/avinashtorm/leetcode/tree/master/0078-subsets) |
@@ -120,6 +121,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/avinashtorm/leetcode/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/avinashtorm/leetcode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/avinashtorm/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/avinashtorm/leetcode/tree/master/0085-maximal-rectangle) |
 | [0155-min-stack](https://github.com/avinashtorm/leetcode/tree/master/0155-min-stack) |
@@ -135,6 +137,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/avinashtorm/leetcode/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/avinashtorm/leetcode/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/avinashtorm/leetcode/tree/master/0085-maximal-rectangle) |
 | [0131-palindrome-partitioning](https://github.com/avinashtorm/leetcode/tree/master/0131-palindrome-partitioning) |
@@ -176,6 +179,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/avinashtorm/leetcode/tree/master/0042-trapping-rain-water) |
 | [0141-linked-list-cycle](https://github.com/avinashtorm/leetcode/tree/master/0141-linked-list-cycle) |
 | [0392-is-subsequence](https://github.com/avinashtorm/leetcode/tree/master/0392-is-subsequence) |
 | [0876-middle-of-the-linked-list](https://github.com/avinashtorm/leetcode/tree/master/0876-middle-of-the-linked-list) |
@@ -438,6 +442,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/avinashtorm/leetcode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/avinashtorm/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/avinashtorm/leetcode/tree/master/0085-maximal-rectangle) |
 | [0496-next-greater-element-i](https://github.com/avinashtorm/leetcode/tree/master/0496-next-greater-element-i) |
