@@ -65,6 +65,7 @@
 | [0485-max-consecutive-ones](https://github.com/avinashtorm/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0494-target-sum](https://github.com/avinashtorm/leetcode/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/avinashtorm/leetcode/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/avinashtorm/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0518-coin-change-ii](https://github.com/avinashtorm/leetcode/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/avinashtorm/leetcode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/avinashtorm/leetcode/tree/master/0733-flood-fill) |
@@ -126,6 +127,7 @@
 | [0085-maximal-rectangle](https://github.com/avinashtorm/leetcode/tree/master/0085-maximal-rectangle) |
 | [0155-min-stack](https://github.com/avinashtorm/leetcode/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/avinashtorm/leetcode/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/avinashtorm/leetcode/tree/master/0503-next-greater-element-ii) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/avinashtorm/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Recursion
 |  |
@@ -446,4 +448,5 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/avinashtorm/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/avinashtorm/leetcode/tree/master/0085-maximal-rectangle) |
 | [0496-next-greater-element-i](https://github.com/avinashtorm/leetcode/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/avinashtorm/leetcode/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
