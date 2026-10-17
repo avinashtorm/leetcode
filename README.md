@@ -81,6 +81,7 @@
 | [1981-minimize-the-difference-between-target-and-chosen-elements](https://github.com/avinashtorm/leetcode/tree/master/1981-minimize-the-difference-between-target-and-chosen-elements) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/avinashtorm/leetcode/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/avinashtorm/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2104-sum-of-subarray-ranges](https://github.com/avinashtorm/leetcode/tree/master/2104-sum-of-subarray-ranges) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/avinashtorm/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/avinashtorm/leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/avinashtorm/leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -133,6 +134,7 @@
 | [0735-asteroid-collision](https://github.com/avinashtorm/leetcode/tree/master/0735-asteroid-collision) |
 | [0907-sum-of-subarray-minimums](https://github.com/avinashtorm/leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/avinashtorm/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [2104-sum-of-subarray-ranges](https://github.com/avinashtorm/leetcode/tree/master/2104-sum-of-subarray-ranges) |
 ## Recursion
 |  |
 | ------- |
@@ -456,4 +458,5 @@
 | [0496-next-greater-element-i](https://github.com/avinashtorm/leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/avinashtorm/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0907-sum-of-subarray-minimums](https://github.com/avinashtorm/leetcode/tree/master/0907-sum-of-subarray-minimums) |
+| [2104-sum-of-subarray-ranges](https://github.com/avinashtorm/leetcode/tree/master/2104-sum-of-subarray-ranges) |
 <!---LeetCode Topics End-->
