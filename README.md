@@ -129,6 +129,7 @@
 | [0042-trapping-rain-water](https://github.com/avinashtorm/leetcode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/avinashtorm/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/avinashtorm/leetcode/tree/master/0085-maximal-rectangle) |
+| [0144-binary-tree-preorder-traversal](https://github.com/avinashtorm/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0155-min-stack](https://github.com/avinashtorm/leetcode/tree/master/0155-min-stack) |
 | [0402-remove-k-digits](https://github.com/avinashtorm/leetcode/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/avinashtorm/leetcode/tree/master/0496-next-greater-element-i) |
@@ -332,6 +333,7 @@
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/avinashtorm/leetcode/tree/master/0130-surrounded-regions) |
+| [0144-binary-tree-preorder-traversal](https://github.com/avinashtorm/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0200-number-of-islands](https://github.com/avinashtorm/leetcode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/avinashtorm/leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/avinashtorm/leetcode/tree/master/0210-course-schedule-ii) |
@@ -470,4 +472,12 @@
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/avinashtorm/leetcode/tree/master/0146-lru-cache) |
+## Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/avinashtorm/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/avinashtorm/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
