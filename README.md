@@ -228,6 +228,7 @@
 | [0126-word-ladder-ii](https://github.com/avinashtorm/leetcode/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/avinashtorm/leetcode/tree/master/0127-word-ladder) |
 | [0141-linked-list-cycle](https://github.com/avinashtorm/leetcode/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/avinashtorm/leetcode/tree/master/0146-lru-cache) |
 | [0299-bulls-and-cows](https://github.com/avinashtorm/leetcode/tree/master/0299-bulls-and-cows) |
 | [0496-next-greater-element-i](https://github.com/avinashtorm/leetcode/tree/master/0496-next-greater-element-i) |
 | [1386-cinema-seat-allocation](https://github.com/avinashtorm/leetcode/tree/master/1386-cinema-seat-allocation) |
@@ -314,6 +315,7 @@
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/avinashtorm/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/avinashtorm/leetcode/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/avinashtorm/leetcode/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/avinashtorm/leetcode/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/avinashtorm/leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/avinashtorm/leetcode/tree/master/0876-middle-of-the-linked-list) |
@@ -451,6 +453,7 @@
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/avinashtorm/leetcode/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/avinashtorm/leetcode/tree/master/0155-min-stack) |
 ## Monotonic Stack
 |  |
@@ -463,4 +466,8 @@
 | [0503-next-greater-element-ii](https://github.com/avinashtorm/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0907-sum-of-subarray-minimums](https://github.com/avinashtorm/leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [2104-sum-of-subarray-ranges](https://github.com/avinashtorm/leetcode/tree/master/2104-sum-of-subarray-ranges) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/avinashtorm/leetcode/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
