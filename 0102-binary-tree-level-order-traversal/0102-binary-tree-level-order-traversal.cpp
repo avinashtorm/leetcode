@@ -23,8 +23,8 @@ public:
             q.pop();
             if(!node)continue;
             a.push_back(node->val);
-            if(node->left!=nullptr)q1.push(node->left);
-            if(node->right!=nullptr)q1.push(node->right);
+            q1.push(node->left);
+            q1.push(node->right);
            }
            if(a.size()>0)v.push_back(a);
            q=q1;
