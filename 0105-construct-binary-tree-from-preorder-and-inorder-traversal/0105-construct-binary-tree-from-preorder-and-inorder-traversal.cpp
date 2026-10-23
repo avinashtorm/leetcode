@@ -22,8 +22,6 @@ TreeNode* build(vector<int>&preorder,vector<int>&inorder,int l,int r){
     return root;
 }
     TreeNode* buildTree(vector<int>& preorder, vector<int>& inorder){
-        id=0;
-        mp.clear();
         for(int i=0;i<inorder.size();i++)mp[inorder[i]]=i;
         return build(preorder,inorder,0,inorder.size()-1);
     }
