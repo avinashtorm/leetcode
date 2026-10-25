@@ -9,28 +9,26 @@ unordered_map<int,pair<list<int>::iterator,int>>mp;
     int get(int key) {
         if(mp.find(key)==mp.end())return -1;
         l.erase(mp[key].first);
-        l.push_back(key);
-        mp[key].first=--l.end();
+        l.push_front(key);
+        mp[key].first=l.begin();
         return mp[key].second;
     }
     void put(int key, int value) {
         if(mp.find(key)!=mp.end()){
             l.erase(mp[key].first);
             mp.erase(key);
-            l.push_back(key);
-            mp[key]={prev(l.end()),value};
+            l.push_front(key);
+            mp[key]={l.begin(),value};
         }
         else if(cap>l.size()){
-            l.push_back(key);
-            mp[key].first=--l.end();
-            mp[key].second=value;
+            l.push_front(key);
+            mp[key]={l.begin(),value};
         }
         else{
-            mp.erase(l.front());
-            l.erase(l.begin());
-            l.push_back(key);
-            mp[key].first=--l.end();
-            mp[key].second=value;
+            mp.erase(l.back());
+            l.pop_back();
+            l.push_front(key);
+            mp[key]={l.begin(),value};
         }
     }
 };
