@@ -1,41 +1,43 @@
 class LRUCache {
 public:
-    list<int> dll; //it contains the key
-    map<int, pair<list<int>::iterator, int>> cache; //key->(list_node, value)
-    int capacity;
-    
+int cap;
+list<int>l;
+unordered_map<int,pair<list<int>::iterator,int>>mp;
     LRUCache(int capacity) {
-        this->capacity = capacity;
+        cap=capacity;
     }
-    
-    void makeMostRecentlyUsed(int key) {
-        dll.erase(cache[key].first);
-        dll.push_front(key);
-        cache[key].first = dll.begin();
-    }
-    
     int get(int key) {
-        if(!cache.count(key))
-            return -1;
-        
-        makeMostRecentlyUsed(key);
-        return cache[key].second;
+        if(mp.find(key)==mp.end())return -1;
+        l.erase(mp[key].first);
+        l.push_back(key);
+        mp[key].first=--l.end();
+        return mp[key].second;
     }
-    
     void put(int key, int value) {
-        if(cache.count(key)) {
-            cache[key].second = value;
-            makeMostRecentlyUsed(key);
-        } else {
-            dll.push_front(key);
-            cache[key] = {dll.begin(), value};
-            capacity--;
+        if(mp.find(key)!=mp.end()){
+            l.erase(mp[key].first);
+            mp.erase(key);
+            l.push_back(key);
+            mp[key]={prev(l.end()),value};
         }
-        
-        if(capacity < 0) {
-            cache.erase(dll.back());
-            dll.pop_back();
-            capacity++;
+        else if(cap>l.size()){
+            l.push_back(key);
+            mp[key].first=--l.end();
+            mp[key].second=value;
+        }
+        else{
+            mp.erase(l.front());
+            l.erase(l.begin());
+            l.push_back(key);
+            mp[key].first=--l.end();
+            mp[key].second=value;
         }
     }
 };
+
+/**
+ * Your LRUCache object will be instantiated and called as such:
+ * LRUCache* obj = new LRUCache(capacity);
+ * int param_1 = obj->get(key);
+ * obj->put(key,value);
+ */
