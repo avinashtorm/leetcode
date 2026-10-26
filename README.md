@@ -212,6 +212,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/avinashtorm/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1755-closest-subsequence-sum](https://github.com/avinashtorm/leetcode/tree/master/1755-closest-subsequence-sum) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/avinashtorm/leetcode/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Bitmask
@@ -242,6 +243,7 @@
 | [0146-lru-cache](https://github.com/avinashtorm/leetcode/tree/master/0146-lru-cache) |
 | [0299-bulls-and-cows](https://github.com/avinashtorm/leetcode/tree/master/0299-bulls-and-cows) |
 | [0496-next-greater-element-i](https://github.com/avinashtorm/leetcode/tree/master/0496-next-greater-element-i) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/avinashtorm/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1386-cinema-seat-allocation](https://github.com/avinashtorm/leetcode/tree/master/1386-cinema-seat-allocation) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/avinashtorm/leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/avinashtorm/leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -292,6 +294,7 @@
 | [0785-is-graph-bipartite](https://github.com/avinashtorm/leetcode/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/avinashtorm/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/avinashtorm/leetcode/tree/master/0802-find-eventual-safe-states) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/avinashtorm/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/avinashtorm/leetcode/tree/master/0993-cousins-in-binary-tree) |
 | [0994-rotting-oranges](https://github.com/avinashtorm/leetcode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/avinashtorm/leetcode/tree/master/1020-number-of-enclaves) |
@@ -368,6 +371,7 @@
 | [0785-is-graph-bipartite](https://github.com/avinashtorm/leetcode/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/avinashtorm/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/avinashtorm/leetcode/tree/master/0802-find-eventual-safe-states) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/avinashtorm/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/avinashtorm/leetcode/tree/master/0993-cousins-in-binary-tree) |
 | [1020-number-of-enclaves](https://github.com/avinashtorm/leetcode/tree/master/1020-number-of-enclaves) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/avinashtorm/leetcode/tree/master/1319-number-of-operations-to-make-network-connected) |
@@ -515,6 +519,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/avinashtorm/leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/avinashtorm/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0543-diameter-of-binary-tree](https://github.com/avinashtorm/leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/avinashtorm/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/avinashtorm/leetcode/tree/master/0993-cousins-in-binary-tree) |
 ## Binary Tree
 |  |
@@ -533,6 +538,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/avinashtorm/leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/avinashtorm/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0543-diameter-of-binary-tree](https://github.com/avinashtorm/leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/avinashtorm/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/avinashtorm/leetcode/tree/master/0993-cousins-in-binary-tree) |
 ## DP on Trees
 |  |
